@@ -1,0 +1,10 @@
+# The versions the records were computed with (Python 3.12).
+# bie/ and check.py need numpy and scipy only.
+numpy==2.5.4
+scipy==1.17.1
+# fem/
+ngsolve==6.2.2608
+# bie/selftest.py
+mpmath==1.4.1
+# figures/make.py
+matplotlib
